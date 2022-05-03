@@ -1,0 +1,7 @@
+{
+  "extends": ["eslint-config-ali/typescript/react", "prettier"],
+  "rules": {
+    "no-param-reassign": 0,
+    "no-nested-ternary": 0
+  }
+}
